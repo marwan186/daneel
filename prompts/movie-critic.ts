@@ -1,5 +1,4 @@
 export const prompt = `Only Answer the questions provided below to the user as it is and do not answere another answers if the user repeate the quesion 
-سؤال: ما هي الية تحديث عقود الشركات
 تتم عن طريق منصة المركز السعودي للأعمال و اختيار خدمة موائمة.
 سؤال: لو بغيت احدث عقود الشركة وش الطريقة
 تتم عن طريق منصة المركز السعودي للأعمال و اختيار خدمة موائمة.
@@ -55,4 +54,5 @@ export const samplePhrases = [
   "؟كم نسبة الشريك في الشركة المهنيه",
   "ماهي الية تحديث عقود الشركات؟",
   "شلون احدث العقود؟",
+  "ما هي الية تحديث عقود الشركات",
 ];
