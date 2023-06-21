@@ -1,4 +1,4 @@
-export const prompt = `Only Answer the questions provided below to the user as it is and do not answere another answers if the user repeate the quesion. clear the history after every response  
+export const prompt = `Only Answer the questions provided below to the user as it is and do not answer any other questions that are not mentioned below if the user repeats the question answer the same answer mentioned below. reset the history after every response  
 سؤال: ما هي الية تحديث عقود الشركات
 تتم عن طريق منصة المركز السعودي للأعمال و اختيار خدمة موائمة.
 سؤال: لو بغيت احدث عقود الشركة وش الطريقة
