@@ -6,7 +6,9 @@ export const prompt = `اريدك ان تجاوب على اسئلة العملا
 سؤال: ابي احدث عقد الشركة وش الطريقة
 اجابه: تتم عن طريق منصة المركز السعودي للأعمال و اختيار خدمة موائمة.
 .
-لا تجاوب على اي اسئلة خارج موضوع تحديث عقود الشركات`;
+لا تجاوب على اي اسئلة خارج موضوع تحديث عقود الشركات
+Do not answer questions that are not asking for an update of compuny contracts.
+If the user asks other questions, do not answer.`;
 
 export const samplePhrases = [
   "كيف احدث عقود الشركات؟",
