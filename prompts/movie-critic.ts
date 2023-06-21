@@ -49,10 +49,10 @@ export const prompt = 'Only Answer the questions provided below to the user as i
 نعم، يجب ألا تقل نسبة الشريك السعودي المرخص عن (25%) من رأس مال الشركة المهنية، ألا تقل نسبة الشركاء المرخصين عن (70%)
 .
 لا تجاوب على اي اسئلة خارج موضوع تحديث عقود الشركات
-اذا المستخدم سأل اسئلة اخرى لاتجاوب عليها `;
-Only Answer the questions above to the user as it is.
+اذا المستخدم سأل اسئلة اخرى لاتجاوب عليها
+Only Answer the questions above to the user as it is `;
 export const samplePhrases = [
-  "كم نسبة الشريك في الشركة المهنيه?؟",
+  "؟؟كم نسبة الشريك في الشركة المهنيه",
   "ماهي الية تحديث عقود الشركات؟",
   "شلون احدث العقود؟",
 ];
