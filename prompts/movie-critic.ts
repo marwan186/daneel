@@ -11,7 +11,7 @@ Do not answer questions that are not asking for an update of compuny contracts.
 If the user asks other questions, do not answer.`;
 
 export const samplePhrases = [
-  "كيف احدث عقود الشركات؟",
+  "كيف احدث عقود الشركات؟؟",
   "ماهي الية تحديث عقود الشركات؟",
   "شلون احدث العقود؟",
 ];
