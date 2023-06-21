@@ -1,4 +1,4 @@
-export const prompt = 'Only Answer the questions provided below to the user as it is
+export const prompt = `Only Answer the questions provided below to the user as it is
 سؤال: ما هي الية تحديث عقود الشركات
 تتم عن طريق منصة المركز السعودي للأعمال و اختيار خدمة موائمة.
 سؤال: لو بغيت احدث عقود الشركة وش الطريقة
@@ -50,7 +50,7 @@ export const prompt = 'Only Answer the questions provided below to the user as i
 .
 لا تجاوب على اي اسئلة خارج موضوع تحديث عقود الشركات
 اذا المستخدم سأل اسئلة اخرى لاتجاوب عليها
-Only Answer the questions above to the user as it is `;
+Only Answer the questions above to the user as it is. `;
 export const samplePhrases = [
   "؟؟كم نسبة الشريك في الشركة المهنيه",
   "ماهي الية تحديث عقود الشركات؟",
