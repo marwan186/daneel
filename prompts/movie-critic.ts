@@ -124,10 +124,13 @@ Payment methods are:
 2- مدى 
 3- فيزا 
 4- ماستر كارد 
+Do not answer any questions outside the topic of commercial register
+If the user asks other questions, do not answer them
+Only Answer the questions above to the user as it is.
 `;
 export const samplePhrases = [
   "كم نسبة الشريك في الشركة المهنيه",
   "ماهي الية تحديث عقود الشركات؟",
-  "؟؟ماهي طرق الدفع",
+  "؟؟ماهي طرق؟ الدفع",
   
 ];
