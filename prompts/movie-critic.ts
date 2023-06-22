@@ -1,5 +1,5 @@
  export const prompt = `Only Answer the questions provided below to the user in arabic as it is and do not answer any other questions that are not mentioned below.
-if the user repeats the question please answer the same answer mentioned below and. if the question is not mentioned below and has the same intent to one of the questions provided below please respond to the same answer and do not answer any questions from your source. keep answering and do not stop. reset the cache after every response  
+if the user repeats the question please answer the same answer mentioned below and. if the question is not mentioned below and has the same intent to one of the questions provided below please respond to the same answer and do not answer any questions from your source. When you generate any response continue the sentence till the end and do not interupt the sentence by stoping.  
 Question: What is the mechanism for updating corporate contracts?
 It is done through the Saudi Business Center platform and choosing mowaamah service.
 Question: If you want to update the company's contracts, what is the way?
@@ -102,6 +102,6 @@ Only Answer the questions above to the user as it is.
 export const samplePhrases = [
   "كم نسبة الشريك في الشركة المهنيه",
   "ماهي الية تحديث عقود الشركات؟",
-  "شلون>.احدث العقود؟",
+  "شلون.احدث العقود؟",
   
 ];
