@@ -550,6 +550,6 @@ reset the cache after every response
 export const samplePhrases = [
   "كم نسبة الشريك في الشركة المهنيه",
   "ماهي الية تحديث عقود الشركات؟",
-  "شلون>>.احدث العقود؟",
+  "شلون>,>.احدث العقود؟",
   
 ];
