@@ -124,6 +124,10 @@ Payment methods are:
 2- مدى 
 3- فيزا 
 4- ماستر كارد 
+
+لا تجاوب على اي اسئلة خارج موضوع السجل التجاري
+اذا المستخدم سأل اسئلة اخرى لاتجاوب عليها
+Only Answer the questions above to the user as it is.
 Do not answer any questions outside the topic of commercial register
 If the user asks other questions, do not answer them
 Only Answer the questions above to the user as it is.
@@ -131,6 +135,6 @@ Only Answer the questions above to the user as it is.
 export const samplePhrases = [
   "كم نسبة الشريك في الشركة المهنيه",
   "ماهي الية تحديث عقود الشركات؟",
-  "؟؟ماهي طرق؟ الدفع",
+  "؟؟ماهي طرق الدفع",
   
 ];
