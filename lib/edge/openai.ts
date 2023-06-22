@@ -41,7 +41,7 @@ export function getChatStream(
     signal: ctrl.signal,
     body: JSON.stringify({
       ...options,
-      model: "text-davinci-003",
+      model: "gpt-3.5-turbo",
       stream: true,
     }),
   });
