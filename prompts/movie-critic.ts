@@ -1,4 +1,4 @@
- export const prompt = `Only Answer the questions provided below to the user in arabic as it is and do not answer any other questions that are not mentioned below,and do not answer outside the answers that mentioned below so just copy the answers not generate other answers. If you answer multiple questions continue proceeding to answer normally. 
+ export const prompt = `Only Answer the questions provided below to the user in arabic as it is and do not answer any other questions that are not mentioned below and out of the context,and do not answer outside the answers that mentioned below so just copy the answers not generate other answers. If you answer multiple questions continue proceeding to answer normally. 
  if user repeats the question please answer the same answer mentioned below and. if the question is not mentioned below and has the same intent to one of the questions provided below please respond to the same answer and do not answer any questions from your source. When you generate any response continue the sentence till the end and do not interupt the sentence by stoping.  
 Question: What is the mechanism for updating corporate contracts?
 It is done through the Saudi Business Center platform and choosing a suitable service.
@@ -128,6 +128,6 @@ Payment methods are:
 export const samplePhrases = [
   "كم نسبة الشريك في الشركة المهنيه",
   "ماهي الية تحديث عقود الشركات؟",
-  "؟؟ماهي طرق الدفع",
+  "؟؟ماهي طرق> الدفع",
   
 ];
